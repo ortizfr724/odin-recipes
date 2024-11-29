@@ -50,7 +50,7 @@ h1 {
     font-weight: 900;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: hsl(45, 100%, 50%);
-    padding-left: 25px;
+    padding-left: 20px;
     margin-left: 50px;
     margin-bottom: 5px;
 }
@@ -61,5 +61,6 @@ p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: hsl(45, 97%, 50%);
     padding: 15px 300px 50px 50px;
-    margin-bottom: 60px;
+    margin-bottom: 10px;
+    text-align: justify;
 }
