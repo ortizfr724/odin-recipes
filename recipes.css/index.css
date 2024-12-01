@@ -28,7 +28,7 @@
 }
 
   .hero {
-    background-image: url(../odin-recipes/images/autumn.jpg);
+    background-image: url(../images/autumn2.jpg);
     background-size: cover;
     background-position: center;
     height: 1150px;
@@ -37,7 +37,10 @@
     align-items: flex-start;
     justify-content: flex-end;
     text-align: center;
-    opacity: 0.95;
+}
+
+.hero a {
+  color: white;
 }
 
 .hero h1, .hero p {
