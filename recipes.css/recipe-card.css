@@ -1,0 +1,46 @@
+/*  Used same styles found in the index.css file for the nav for the recipe cards
+    -- 
+
+
+
+*/
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: hsla(45, 97%, 50%,0.68);
+}
+  
+  .list {
+    float: left;
+}
+  
+  .list a {
+    display: block;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.35rem;
+    font-weight: 900;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    margin-left: 18px;
+    text-decoration: none;
+}
+  
+  .list a:hover {
+    background-color: hsl(45, 100%, 50%);
+}
+
+/*                                
+
+    ---- notes---
+
+*/
+
+.recipe {
+    font-size: 5rem;
+    font-weight: 900;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: hsl(45, 100%, 50%);
+}
